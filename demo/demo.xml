@@ -1,0 +1,22 @@
+<odoo>
+
+        <record model="openacademy.course" id="course0">
+            <field name="name">Production Automation</field>
+            <field name="description">Credit Hours=3
+
+Lecturer=Dr.Haider Ali
+            </field>
+        </record>
+        <record model="openacademy.course" id="course1">
+            <field name="name">Mechatronics</field>
+            <!-- no description for this one -->
+        </record>
+        <record model="openacademy.course" id="course2">
+            <field name="name">Computer Programming</field>
+            <field name="description">Credit Hours=2
+            Lecture=Dr.Usman Ghani
+            </field>
+        </record>
+
+</odoo>
+
